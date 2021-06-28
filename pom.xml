@@ -28,7 +28,7 @@
         <dependency>
             <groupId>org.p2p</groupId>
             <artifactId>solanaj</artifactId>
-            <version>1.5-SNAPSHOT</version>
+            <version>1.5</version>
         </dependency>
     </dependencies>
 

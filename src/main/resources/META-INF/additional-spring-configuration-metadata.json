@@ -1,0 +1,15 @@
+{
+  "properties": [
+    {
+      "name": "solanaj.endpoint",
+      "type": "java.lang.String",
+      "description": "Solana RPC endpoint to use",
+      "defaultValue": "https://api.mainnet-beta.solana.com"
+    },
+    {
+      "name": "solanaj.cluster.endpoints",
+      "type": "java.util.List<org.p2p.solanaj.rpc.types.WeightedEndpoint>",
+      "description": "A list of Solana RPC endpoints, each with a weighted value"
+    }
+  ]
+}

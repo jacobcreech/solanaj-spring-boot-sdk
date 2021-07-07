@@ -1,12 +1,12 @@
 # solanaj-spring-boot-sdk
 Auto Injection of SolanaJ for Spring-Boot
 
-###Requirements
+### Requirements
 
 - Java 8+
 - Spring-boot 2.1+
 
-###Dependencies
+### Dependencies
 
 - solanaj
 - spring-boot-starter
@@ -50,6 +50,6 @@ The `solanaj.cluster.endpoints` allows you to override the main endpoint with a 
 
 In the example above, `https://api.mainnet-beta.solana.com` is used 50% of the time, and `https://solana-api.projectserum.com` the other 50%.
 
-###License
+### License
 
 solanaj-spring-boot-sdk is under the MIT license. See [LICENSE.md](https://github.com/cryptogosu/solanaj-spring-boot-sdk/blob/main/LICENSE) for more information.
